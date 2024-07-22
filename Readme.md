@@ -5,7 +5,7 @@
 This project uses Terraform to launch two EC2 instances in two different AWS availability zones and install Docker Nginx on these instances. The configuration details are specified in the `main.tf` file, and the variable values are stored in the `terraform.tfvars` file for easy modification.
 
 ## Architecture Diagram
-
+![Provisioning cloud infrastructure using Terraform - Page 2](https://github.com/user-attachments/assets/91e58bc1-ea2f-4337-8b23-74084da884ad)
 
 ## Installation Instructions
 
