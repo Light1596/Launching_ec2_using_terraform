@@ -1,4 +1,4 @@
-# Terraform EC2 Instances with Docker Nginx
+# Provisioning EC2 instances using Terraform and running Docker nginx on them
 
 ## Project Description
 
